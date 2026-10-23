@@ -1,0 +1,77 @@
+[**Medium Article Link**]([Medium</title><meta name="theme-color" content="#000000"/><meta name="twitter:app:name:iphone" content="Medium"/><meta name="twitter:app:id:iphone" content="828256236"/><meta property="al:ios:app_name" content="Medium"/><meta property="al:ios:app_store_id" content="828256236"/><meta property="al:android:package" content="com.medium.reader"/><meta property="al:android:app_name" content="Medium"/><meta property="fb:app_id" content="542599432471018"/><meta property="og:site_name" content="Medium"/><meta name="apple-itunes-app" content="app-id=828256236, app-argument=/@shayaan0303/occupational-ai-framework-3ec525496daf, affiliate-data=pt=698524&amp;ct=smart_app_banner&amp;mt=8"/><link rel="search" type="application/opensearchdescription+xml" title="Medium" href="/osd.xml"/><link rel="apple-touch-icon" sizes="152x152" href="https://miro.medium.com/v2/resize:fill:304:304/10fd5c419ac61637245384e7099e131627900034828f4f386bdaa47a74eae156"/><link rel="apple-touch-icon" sizes="120x120" href="https://miro.medium.com/v2/resize:fill:240:240/10fd5c419ac61637245384e7099e131627900034828f4f386bdaa47a74eae156"/><link rel="apple-touch-icon" sizes="76x76" href="https://miro.medium.com/v2/resize:fill:152:152/10fd5c419ac61637245384e7099e131627900034828f4f386bdaa47a74eae156"/><link rel="apple-touch-icon" sizes="60x60" href="https://miro.medium.com/v2/resize:fill:120:120/10fd5c419ac61637245384e7099e131627900034828f4f386bdaa47a74eae156"/><link rel="mask-icon" href="https://miro.medium.com/v2/resize:fill:1000:1000/7*GAOKVe--MXbEJmV9230oOQ.png" color="#171717"/><link rel="preconnect" href="https://glyph.medium.com" crossorigin=""/><link rel="manifest" href="/manifest.json"/><link rel="preconnect" href="https://www.google.com"/><link rel="preconnect" href="https://www.gstatic.com" crossorigin=""/><link id="glyph_preload_link" rel="preload" as="style" type="text/css" href="https://glyph.medium.com/css/unbound.css"/><title>Occupational AI Framework. and other ideas | by Shayaan Danish Ansari | Oct, 2026 | Medium](https://medium.com/@shayaan0303/occupational-ai-framework-3ec525496daf)) 
+
+This is all human written. I am going to try to make sure infact that no AI at all is used in this whole folder, not for anything at all.
+
+I have some great ideas (great undersells it imo) regarding AI systems both in terms of our orientation in seeing them and how to make great AI systems.
+
+Namely the "Occupational AI framing" and some other specific ideas to make AI Systems.
+
+Since my job is starting, and it there is a chance that to even get a job I have to share some ideas as they naturally come to me and I'd want to maximise my chance of getting into a company, I will end up sharing my ideas.
+
+Now I personally am bothered when ideas from one person are claimed by someone else. I am bothered when X does it Y, and I certainly don't want to be Y here.
+
+So I am going to be sharing the ideas in as raw a format as I can here right now 21:32 PST 23/10/2026 and polish into an article soon that I post on medium and my personal website. Probably I will be making a YouTube video too of course.
+
+My goal is again to create credibility and ownership of the ideas.
+
+# Occupational Framing:
+
+~ Conceiving an existing or new occupation (human-role) and seeing how it can be simulated.
+
+Now to expand on this, by simulation I mean expand on the simulation part in layer 2. Layer 1 is the conception of a role itself.
+
+What does a chef do? What does a personal assistant do? What does a news anchor do? So on and so forth. You can go as general as you want, and as specific as you want depending on your role.
+
+You can also invent a new role that does not yet exist, for example my conception of a Food Concierge, someone who knows about food, cooking it, nutrition and general advice on well everything and life. Now this person goes from helping plan your meals, to reassuring worries to providing grocery lists, and even buying said groceries and bringing them to your home.
+
+Last I checked this person doesn't cleanly exist. A chef usually doesn't buy groceries, they only cook what you ask them to. A nutritionist or meal planner sits with you and consults on health or taste and gets you a meal plan with recipes. A butler might buy your groceries or someone orders them online for you. And that's about it. So what I did was conceive of a new role.
+
+Anywho, both taking an existing system and conceiving a new one are allowed in the framework.
+
+On layer 2 we realise how we can simulate this role. What must we make legible? 
+What must the input be?
+What must the output be?
+What could the process be?
+
+Without going to deep into the implementation details you peel the top most layer of the onion that conception was, and try to realise how this system could be simulated or even what the system cleanly entails (in an IPO or black-box framing).
+
+It just so happens to be that today, since layer 3 is implementation design, AI (LLMs, VLMs and so on) tend to exist with a great deal of cognitive prowess, the implementation design can try to solve the process question with non-deterministic AI and Generative AI systems. Admittedly perhaps before layer 3 would be too difficult to complete (layer 3 being implementation design) or too difficult (High bandwidth i.e. money or time wise etc.) to implement on layer 4.
+
+And then comes layer 4 of course which is the actual implementation itself where you end up going deeper into whatever specific implementation design you picked and use whatever process you followed.
+
+The only other thing might I add is that "feedback" is part and parcel part of the process just as the human cognition and intuition and logic was that were used at every layer. Revisiting, revising, reflecting, confirming, changing, modifying any design stage again and moving across design stages (I would expect after they are completed each once though I'd love to see someone going at them more haphazardly and producing results) is more than welcome and I mean it.
+
+And there is the Occupational AI Framework.
+
+Below I have shared some other specific ideas that are again my exact words (no AI words in this document! At least that I know of course. I only say that because the text below was copied from a message I sent to an AI Web Chat when I was expressing how I fear me sharing it would come into training but I did anyways because I wanted to see if my ideas were clear to an outside viewer and they were by a lot. Also I got for free the "is this new" question)
+
+# other specific ideas:
+
+- Seeing an LLM as a cognitive engine and thinking about simulating the brain
+- Summaries and summary fan outs, and summary saving rather than exact document/message saving (I mean you can save everything but retrieve only summaries first).
+- Sidecorp. Basically start having sidecar files including fan out ones to describe every line of code. Every file, every function, every folder and so on and so forth. Rather than relying on md files and commenting (you can keep them too). Also making sure this is genuinely actively kept up as in force and llm to rewrite at every git commit or something of that sort. And then create a visual map as well of the codebase using the sidecar.
+- Pseudo-code based coding. We are using AI as software engineer, we could also start treating them as auto-completers and use pseudo-code skeletons for whole projects to get them started.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
